@@ -1,1 +1,1 @@
-# go-rest-api
+# simple rest-api using Golang and MySQL
